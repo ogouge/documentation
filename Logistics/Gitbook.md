@@ -14,9 +14,9 @@
 
 7. Send your changes
 
-   1. If you want someone to review your modifications click "Create a change request". 
+   1. If you want someone to review your modifications click "Create a change request".
 
-   2. If you don't want anyone to review click save and   
+   2. If you don't want anyone to review click "Save" and the "Publish and Sync" button ![](/assets/Selection_074.png)
 
 
 
