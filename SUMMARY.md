@@ -1,8 +1,8 @@
 # Summary
 
 * Aerial Vehicles
-  * [Asctec Firefly](UAV/Asctec/Firefly.md)
-  * [Asctec Pelican](UAV/Asctec/Pelican.md)
+  * [Asctec Firefly](UAV/AscTec/Firefly.md)
+  * [Asctec Pelican](UAV/AscTec/Pelican.md)
 * Ground Vehicles
   * [Clearpath Husky](UGV/Husky/Usage.md)
   * [iRobot Create](UGV/Create/Usage.md)
