@@ -14,3 +14,4 @@
     * [FAQ](Equipment/Vicon/faq.md)
 * Logistics
   * [Personnel](Logistics/People.md)
+  * [How to edit](Logistics/Gitbook.md)
