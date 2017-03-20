@@ -12,6 +12,11 @@
 
 6. Pick a page in the TOC on the left to edit.![](/assets/gitbook-edit.png)
 
-7. 
+7. Send your changes
+
+   1. If you want someone to review your modifications click "Create a change request". 
+
+   2. If you don't want anyone to review click save and   
+
 
 
