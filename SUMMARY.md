@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * Aerial Vehicles
   * [Asctec Firefly](UAV/AscTec/Firefly.md)
   * [Asctec Pelican](UAV/AscTec/Pelican.md)
@@ -14,4 +15,5 @@
     * [FAQ](Equipment/Vicon/faq.md)
 * Logistics
   * [Personnel](Logistics/People.md)
-  * [How to edit](Logistics/Gitbook.md)
+  * [Contribute \(Gitbook Editor\)](Logistics/Gitbook.md)
+

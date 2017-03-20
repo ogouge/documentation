@@ -1,1 +1,17 @@
-# How to edit this Gitbook
+# Contribute Using Gitbook Editor
+
+1. Get access to the Documentation Gitbook on gitbook.com by asking an administrator. Since we only have a maximum of 5 collaborators, be sure to use this option only for students who won't be learning git.
+2. Install the [Gitbook Editor.](https://www.gitbook.com/editor)
+3. Log in to the Gitbook Editor.
+   ![](/assets/gitbook-login.png)
+4. I logged in through Github so I also had to authorize the application.  
+   ![](/assets/gitbook-authorize.png)
+
+5. Select the Documentation book.  
+   ![](/assets/gitbook-book.png)
+
+6. Pick a page in the TOC on the left to edit.![](/assets/gitbook-edit.png)
+
+7. 
+
+
