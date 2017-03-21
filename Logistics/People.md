@@ -4,7 +4,7 @@
 * [Jérôme Le Ny](http://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=546 "Jérôme Le Ny")
 * [David Saussié](http://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=513 "David Saussié")
 
-# Resource personnel
+# Resource Personnel
 
 * [Saad Chidami](http://www.polymtl.ca/bottin/recherche.php?q=Saad Chidami "Saad Chidami")
   * Technical resource coordinator
