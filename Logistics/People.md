@@ -13,28 +13,28 @@
 
 * Tien Nguyen
   * Ph.D. student under the supervision of Profs. Saussié & Saydy
-  * Research subject: Fault tolerant control
+  * _Research subject:_ Fault tolerant control
 * André Phu-Van Nouillen
   * M.Sc.A. student under the supervision of Profs. Le Ny & Saussié
-  * Research subject: **XXXXXXXX**
+  * _Research subject:_ **XXXXXXXX**
 * Juliette Tibayrenc
   * M.Sc.A. student under the supervision of Profs. Le Ny
-  * Research subject: **XXXXXXXX**
+  * _Research subject:_ **XXXXXXXX**
 * Nguyen Dang Quang
   * M.Sc.A. student under the supervision of Prof. Le Ny
-  * Research subject: **XXXXXXXX**
+  * _Research subject:_ **XXXXXXXX**
 * Olivier Gougeon
   * M.Sc.A. student under the supervision of Prof. Saussié
-  * Research subject: Convertible/Hybrid drones
+  * _Research subject:_ Convertible/Hybrid drones
 * Catherine Massé
   * M.Sc.A. student under the supervision of Prof. Saussié
-  * Research subject: Quadcopter with robotic arm
+  * _Research subject:_ Quadcopter with robotic arm
 * Justin Cano
   * M.Sc.A student under the supervision of Prof. Le Ny
-  * Research subject: Ultra-wideband \(UWB\)
+  * _Research subject:_ Ultra-wideband \(UWB\)
 * Jérémie Pilon
   * B.Ing. student under the supervision of Prof. Saussié
-  * Research subject: Adaptive control
+  * _Research subject:_ Adaptive control
 
 
 
